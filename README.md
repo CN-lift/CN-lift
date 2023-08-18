@@ -1,3 +1,3 @@
 - 👋 Hi, I’m CN_lift
 
-I like CS. lol
+- I like CS. lol
